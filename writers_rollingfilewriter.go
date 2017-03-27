@@ -36,10 +36,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cihub/seelog/archive"
-	"github.com/cihub/seelog/archive/gzip"
-	"github.com/cihub/seelog/archive/tar"
-	"github.com/cihub/seelog/archive/zip"
+	"github.com/helmutkemper/seelog/archive"
+	"github.com/helmutkemper/seelog/archive/gzip"
+	"github.com/helmutkemper/seelog/archive/tar"
+	"github.com/helmutkemper/seelog/archive/zip"
 )
 
 // Common constants

@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/cihub/seelog/archive/zip"
+	"github.com/helmutkemper/seelog/zip"
 	"github.com/cihub/seelog/io/iotest"
 )
 

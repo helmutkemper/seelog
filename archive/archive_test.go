@@ -6,10 +6,10 @@ import (
 	"io"
 	"testing"
 
-	"github.com/cihub/seelog/archive"
-	"github.com/cihub/seelog/archive/gzip"
-	"github.com/cihub/seelog/archive/tar"
-	"github.com/cihub/seelog/archive/zip"
+	"github.com/helmutkemper/seelog"
+	"github.com/helmutkemper/seelog/gzip"
+	"github.com/helmutkemper/seelog/tar"
+	"github.com/helmutkemper/seelog/zip"
 	"github.com/cihub/seelog/io/iotest"
 )
 
